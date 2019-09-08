@@ -38,7 +38,7 @@ router.post('/reset',async (req,res) => {
                         },
                         "To": [
                             {
-                            "Email": "bosniangc@gmail.com",
+                            "Email": user[0].email,
                             "Name": user[0].username
                             }
                         ],
