@@ -1,6 +1,6 @@
 # FORUM API !
 
-API je skoro pa kompletno završen, fali jedna ili dvije funkcionalnosti. Podginut je na privatni server zbog lakšeg testiranja. U nastavku će biti ostavljene upute za korištenje i adresa online verzije.
+API je skoro pa kompletno završen. Podginut je na privatni server zbog lakšeg testiranja. U nastavku će biti ostavljene upute za korištenje i adresa online verzije.
 
 
 # Files
